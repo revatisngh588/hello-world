@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+
+   int inp,a,b,sum;
+   b=sum=0;
+   cout<<"Enter the no. of digits you want to print.";
+   cin>>inp;
+   a=1;
+   cout<<"1";
+       for(int i=0;i<inp-1;i++){
+       sum=a+b;
+       cout<<sum;
+       b=a;
+       a=sum;
+       }
+return 0;
+}
