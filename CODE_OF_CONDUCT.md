@@ -44,3 +44,9 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+it showed the difference between the texts
+
